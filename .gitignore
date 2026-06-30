@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor backups & swap files
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Vim/Neovim session files
+.nvim/
+Session.vim
+
+# Local notes
+scratch.md
+NOTES.md
